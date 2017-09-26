@@ -1,0 +1,23 @@
+{
+  "name": "mtm6330-week03",
+  "version": "1.0.0",
+  "description": "Gulp compiler demo - Michelle Ogilby, 020 :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogil0035/mtm6330-week03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogil0035/mtm6330-week03/issues"
+  },
+  "homepage": "https://github.com/ogil0035/mtm6330-week03#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
